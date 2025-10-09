@@ -4,12 +4,17 @@ publish_to: "none"
 version: 0.1.0
 
 environment:
-  sdk: ^3.9.0
+  sdk: ">=3.9.0 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
+
+  # UI
   google_fonts: ^6.0.0
+  weather_icons: 3.0.0
+
+  # Networking
   http: ^1.1.0
 
 dev_dependencies:
