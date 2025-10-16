@@ -4,7 +4,7 @@ import 'package:calculadora_clima/utils/calculadora_logic.dart';
 void main() {
   group('Pruebas básicas de calculadora', () {
     test('Suma de 2 + 3 debe ser 5', () {
-      final r = calcular('suma', 2, 3);
+      final r = calcular('suma', 2, 4);
       expect(r['resultado'], equals(5));
       expect(r['mensaje'], isEmpty);
     });
