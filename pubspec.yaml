@@ -1,5 +1,5 @@
 name: calculadora_clima
-description: "A new Flutter project."
+description: "Aplicación Flutter para clima y calculadora"
 publish_to: "none"
 version: 0.1.0
 
@@ -12,7 +12,8 @@ dependencies:
 
   # UI
   google_fonts: ^6.0.0
-  weather_icons: 3.0.0
+  weather_icons: ^3.0.0
+  lottie: ^2.6.0
 
   # Networking
   http: ^1.1.0
@@ -24,3 +25,6 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+    - assets/animations/
