@@ -51,10 +51,5 @@ Incluye pruebas unitarias para lógica de cálculo y simulación meteorológica.
 bash
 flutter build web
 
-# Copiar contenido de build/web al repositorio de GitHub Pages
-
-📸 Capturas
-(Puedes agregar imágenes aquí si lo deseas, como GIFs de las animaciones o screenshots de la interfaz)
-
 👨‍💻 Autor
 Moisés Ruiz Desarrollador Full-Stack en transición hacia Backend Apasionado por sistemas elegantes, simulaciones realistas y visualizaciones interactivas 📍 Cartagena, Colombia
